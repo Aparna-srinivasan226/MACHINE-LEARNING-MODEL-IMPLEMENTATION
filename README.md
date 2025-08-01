@@ -126,5 +126,11 @@ The notebook includes all code, outputs, and visualizations for easy understandi
 
 The final version is suitable for uploading to GitHub or submitting as part of an internship deliverable.
 
+OUTPUT:
+
+<img width="425" height="227" alt="Image" src="https://github.com/user-attachments/assets/9c5c4f5a-1f86-4855-867f-fd435821958d" />
+
+<img width="464" height="365" alt="Image" src="https://github.com/user-attachments/assets/7369a3c1-7a6b-4d22-82f0-d072b888482b" />
+
 
 
